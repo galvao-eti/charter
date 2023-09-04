@@ -1,2 +1,12 @@
 :warning: EXPERIMENTAL :test_tube:
 This project is an experiment to refresh my skills in Perl. This is NOT ready to be used in any capacity. It is UNSTABLE, NON-PERFORMANT and possibly buggy. If by this point you didn't got it yet... :man_shrugging:
+
+## ToDo
+
+- [ ] Add Recursivity;
+- [ ] Add configuration
+	- [ ] "DoNotFollow", for domains that shouldn't be chatrted
+	- [ ] Redirection
+	- [ ] A boolean to decide if falls back to http
+	- [ ] etc...
+- [ ] Parsing and automatically respecting robots.txt, if present
